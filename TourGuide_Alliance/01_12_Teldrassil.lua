@@ -44,7 +44,7 @@ N 7 Hyacinth Mushroom |QID|3521.1| |N|Collect 7 Hyacinth Mushroom found around t
 
 R Shadowthread Cave |QID|917| |N|Enter Shadowthread Cave (56.80, 31.65)|
 C Webwood Egg |QID|917| |N|Follow the path inside Shadowthread Cave and collect Webwood Egg near the giant spider (56.82, 27.35) (55.85, 24.93) (56.65, 26.48)|
-N Webwood Ichor |QID|3521.3| |N|Collect Webwood Ichor from Webwood Spider in Shadowglen cave (57.31, 34.25)|
+N Webwood Ichor |QID|3521.3| |N|Collect Webwood Ichor from Webwood Spider in and around Shadowthread Cave (57.31, 34.25)|
 
 T Webwood Egg |QID|917| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
 A Tenaron's Summons |QID|920| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
@@ -131,7 +131,7 @@ N Black Feather Quill |QID|483.2| |N|Collect Black Feather Quill from the chest 
 A The Sleeping Druid |QID|2541| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
 N Raven Claw Talisman |QID|483.1| |N|Collect Raven Claw Talisman from the chest (45.51, 58.96) (46.22, 58.21) (45.71, 57.33)|
 N Sapphire of Sky |QID|483.3| |N|Collect Sapphire of Sky from the small chest (44.65, 62.50)|
-C The Sleeping Druid |QID|2541| |N|Kill Gnarlpine Shaman until you find a Voodoo Charm. The item only drops from the Shaman at a very low drop rate. The quest chain will reward Sleeping Robes and Brushwood Blade. Consider skipping this quest and the follow up if the rewards are not useful for your character (44, 59)|
+C The Sleeping Druid |QID|2541| |N|Kill Gnarlpine Shaman until you find a Voodoo Charm. The item only drops from the Shaman at a very low drop rate. The quest chain will reward Sleeping Robes and Brushwood Blade. Consider skipping this quest and the follow-up if the rewards are not useful for your character (44, 59)|
 T The Sleeping Druid |QID|2541| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
 A Druid of the Claw |QID|2561| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
 C Druid of the Claw |QID|2561| |N|Kill Rageclaw and then use the Voodoo Charm on the body (44.9, 61.5)| |U|8149|
@@ -200,12 +200,12 @@ K Vorlus Vilehoof |QID|1683.1| |N|Follow the path up and kill Vorlus Vilehoof an
 R Wellspring River |QID|923| |N|Travel to Wellspring River (43.65, 34.46)|
 C Tumors |QID|923| |N|Kill Timberling Mire Beast or Timberling Trampler collect 5 Mossy Tumor in Wellspring River (43.65, 34.46)|
 C Crown of the Earth (Part 5) |QID|7383| |N|Use Amethyst Phial at the moonwell (38, 34)| |U|18152|
-K Blackmoss the Fetid |QID|927| |N|Kill Blackmoss the Fetid and collect Moss-twined Heart to accept a quest (42.7, 36.8) and (42.5, 26). He is a rare npc; Skip the quest if you can't find him| |L|5179|
+K Blackmoss the Fetid |QID|927| |N|Kill Blackmoss the Fetid and collect Moss-twined Heart to accept a quest (42.7, 36.8) and (42.5, 26). He is a rare spawn; Skip the quest if you can't find him| |L|5179|
 A The Moss-twined Heart |QID|927| |N|Use Moss-twined Heart to accept the quest| |O| |U|927|
 
 R The Oracle Glade |QID|937| |N|Travel to The Oracle Glade (38.3, 34.4)|
 A The Enchanted Glade |QID|937| |N|Sentinel Arynia Cloudsbreak in The Oracle Glade (38.3, 34.4)|
-A Mist |QID|938| |N|Mist north west of The Oracle Glade (31.54, 31.61)|
+A Mist |QID|938| |N|Mist is northwest of The Oracle Glade (31.54, 31.61)|
 A The Shimmering Frond |QID|931| |N|Strange Fronded Plant in The Oracle Glade (34.8, 28.9)|
 
 C Mist |QID|938| |N|Escort Mist to Sentinel Arynia Cloudsbreak at the moonwell near the Oracle Tree (31.4, 31.6) (38.3, 34.4)|
@@ -216,7 +216,7 @@ T The Enchanted Glade |QID|937| |N|Sentinel Arynia Cloudsbreak in The Oracle Gla
 A Teldrassil |QID|940| |N|Sentinel Arynia Cloudsbreak in The Oracle Glade (38.3, 34.4)|
 
 C Tears of the Moon |QID|2518| |N|Kill Lady Sathrah and collect Silvery Spinnerets north of The Oracle Glade (39.28, 25.70)|
-C Destiny Calls |QID|2242| |N|Find Sethir the Ancient north of the The Oracle Glade and use the (spell:921) ability on him from behind while stealth to get a book from him (37.21, 23.24)| |C|Rogue| |PRE|2241|
+C Destiny Calls |QID|2242| |N|Find Sethir the Ancient north of The Oracle Glade. While stealthed, use the (spell:921) ability on him from behind to get a book from him (37.21, 23.24)| |C|Rogue| |PRE|2241|
 
 R Cenarion Enclave |QID|2498| |N|Travel to Darnassus (36.88, 21.97)| |Z|Darnassus|
 T Destiny Calls |QID|2242| |N|Syurna in Cenarion Enclave (36.88, 21.97)| |Z|Darnassus| |PRE|2241| |C|Rogue|
