@@ -195,7 +195,7 @@ A Tears of the Moon |QID|2518| |N|Priestess A'moora in Temple of the Moon (36.55
 
 R Teldrassil |QID|923| |N|Travel to Teldrassil (38.0, 54.7)| |REACH|
 C Ursal the Mauler |QID|486| |N|Kill Ursal the Mauler. This quest rewards Defender Axe or Thornroot Club. Consider skipping this quest if the rewards are not useful for your character (38.8, 78.9)|
-K Vorlus Vilehoof |QID|1683.1| |N|Follow the path up and kill Vorlus Vilehoof and collect Horn of Vorlus near the Moonwell in Teldrassil (49.11, 61.80) (48.75, 62.84) (49.05, 65.00) (47.31, 63.65)| |C|Warrior|
+K Vorlus Vilehoof |QID|1683.1| |N|Follow the path up and kill Vorlus Vilehoof. Collect Horn of Vorlus near the Moonwell in Teldrassil (49.11, 61.80) (48.75, 62.84) (49.05, 65.00) (47.31, 63.65)| |C|Warrior|
 
 R Wellspring River |QID|923| |N|Travel to Wellspring River (43.65, 34.46)|
 C Tumors |QID|923| |N|Kill Timberling Mire Beast or Timberling Trampler collect 5 Mossy Tumor in Wellspring River (43.65, 34.46)|
