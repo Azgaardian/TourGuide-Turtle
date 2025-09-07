@@ -43,7 +43,7 @@ N 4 Moonpetal Lily |QID|3521.2| |N|Collect 4 Moonpetal Lily found around the edg
 N 7 Hyacinth Mushroom |QID|3521.1| |N|Collect 7 Hyacinth Mushroom found around the bottom of trees or dropped from Grellkin in Shadowglen (57, 37)|
 
 R Shadowthread Cave |QID|917| |N|Enter Shadowthread Cave (56.80, 31.65)|
-C Webwood Egg |QID|917| |N|Follow the path inside Shadowthread Cave and and collect Webwood Egg near the giant spider (56.82, 27.35) (55.85, 24.93) (56.65, 26.48)|
+C Webwood Egg |QID|917| |N|Follow the path inside Shadowthread Cave and collect Webwood Egg near the giant spider (56.82, 27.35) (55.85, 24.93) (56.65, 26.48)|
 N Webwood Ichor |QID|3521.3| |N|Collect Webwood Ichor from Webwood Spider in Shadowglen cave (57.31, 34.25)|
 
 T Webwood Egg |QID|917| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
@@ -63,7 +63,7 @@ A Zenn's Bidding |QID|488| |N|Zenn Foulhoof in Dolanaar (60.41, 56.26)|
 
 R Dolanaar |QID|929| |N|Travel to Dolanaar (55.7, 59.8)|
 T Dolanaar Delivery |QID|2159| |N|Innkeeper Keldamyr in Dolanaar (55.7, 59.8)|
-h Dolanaar |QID|929| |N|Speeak to Innkeeper Keldamyr and set hearth in Dolanaar (55.7, 59.8)|
+h Dolanaar |QID|929| |N|Speak to Innkeeper Keldamyr and set hearth in Dolanaar (55.7, 59.8)|
 T Crown of the Earth (Part 2) |QID|928| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
 A Crown of the Earth (Part 3) |QID|929| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
 A Denalan's Earth |QID|997| |N|Syral Bladeleaf in Dolanaar (56.10, 57.74)|
