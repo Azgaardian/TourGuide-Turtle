@@ -63,10 +63,10 @@ A Zenn's Bidding |QID|488| |N|Zenn Foulhoof in Dolanaar (60.41, 56.26)|
 
 R Dolanaar |QID|929| |N|Travel to Dolanaar (55.7, 59.8)|
 T Dolanaar Delivery |QID|2159| |N|Innkeeper Keldamyr in Dolanaar (55.7, 59.8)|
-h Dolanaar |QID|929| |N|Speak to Innkeeper Keldamyr and set hearth in Dolanaar (55.7, 59.8)|
-    
+H Dolanaar |QID|929| |N|Speak to Innkeeper Keldamyr and set hearth in Dolanaar (55.7, 59.8)|
+
 N Train Herbalism |QID|6121| |N|Highly recommended as a Druid that you train Herbalism from Malorne Bladeleaf; You will need it to gather 5 Earthroot for your level 14 class quest. Note: You need level 15 Herbalism to gather Earthroot, so level it up as you go. Tick this step (57.6, 60.6)| |C|Druid| |Z|Teldrassil|
-    
+
 T Crown of the Earth (Part 2) |QID|928| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
 A Crown of the Earth (Part 3) |QID|929| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
 A Denalan's Earth |QID|997| |N|Syral Bladeleaf in Dolanaar (56.10, 57.74)|
