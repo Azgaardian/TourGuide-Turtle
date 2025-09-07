@@ -103,11 +103,11 @@ K Strigid Owl |QID|488.3| |N|Kill Webwood Lurker for 3 Webwood Spider Silk in La
 T Zenn's Bidding |QID|488| |N|Zenn Foulhoof (60.41, 56.26)|
 A Seek Redemption! |QID|489| |N|Syral Bladeleaf in Dolanaar (56.10, 57.74)|
 
-N As you go... |AYG|2459| |QID|489| |N|Collect 3 Fel Cone from around the bottom area of large trees, they are quite rare| |OBJ|425|
+N As you go... |AYG|2459| |QID|489| |N|Collect 3 Fel Cone from around the bottom area of large trees; they are quite rare| |OBJ|425|
 K Ferocitas the Dream Eater |QID|2459.2| |N|Kill Ferocitas the Dream Eater north of Starbreeze Village and collect Gnarlpine Necklace. Open the item to collect Tallonkai's Jewel (69.8, 53.0)|  |U|8049|
 C Ferocitas the Dream Eater |QID|2459.1| |N|Kill 7 Gnarlpine Mystic north of Starbreeze Village (69.8, 53.0)|
 
-R Fel Rock |QID|932| |N|Travel to Fel Rock cave north of Dolanaar (53.74, 53.62) (54.61, 52.62)|
+R Fel Rock |QID|932| |N|Travel to Fel Rock (it's a cave), north of Dolanaar (53.74, 53.62) (54.61, 52.62)|
 C Twisted Hatred |QID|932| |N|Kill Lord Melenas and collect Melenas' Head in Fel Rock (51.27, 50.77)|
 
 R Dolanaar |TID|932| |N|Exit to Dolanaar (54.61, 52.62) (55.5, 56.9)|
@@ -115,7 +115,7 @@ T Twisted Hatred |QID|932| |N|Tallonkai Swiftroot at the top of the tower in Dol
 T Ferocitas the Dream Eater |QID|2459| |N|Tallonkai Swiftroot at the top of the tower in Dolanaar (55.5, 56.9)|
 
 A The Road to Darnassus |QID|487| |N|Moon Priestess Amara in Dolanaar (50, 54) (55, 58)|
-N As you go... |AYG|933| |QID|489| |N|Collect 3 Fel Cone from around the bottom area of large trees, they are quite rare| |OBJ|425|
+N As you go... |AYG|933| |QID|489| |N|Collect 3 Fel Cone from around the bottom area of large trees; they are quite rare| |OBJ|425|
 C The Road to Darnassus |QID|487| |N|Kill 6 Gnarlpine Ambusher in in Ban'ethil Hollow (45.92, 52.80)|
 
 R Gnarlpine Hold |QID|930| |N|Travel to Gnarlpine Hold (42.67, 76.16)|
@@ -126,12 +126,12 @@ C Crown of the Earth (Part 4) |QID|933| |N|Use Tourmaline Phial in Pools of Arli
 C Seek Redemption! |QID|489| |N|Collect 3 Fel Cone from around the bottom area of large trees (57, 63)|  |OBJ|425|
 
 R Ban'ethil Barrow Den |QID|483| |N|Travel to Ban'ethil Barrow Den (44.28, 58.08)|
-N Rune of Nesting |QID|483.4| |N|Head down into the Ban'ethil Barrow Den at the first set of bridges take the left bridge and collect Rune of Nesting from the chest (44.40, 60.62)|
+N Rune of Nesting |QID|483.4| |N|Head down into the Ban'ethil Barrow Den. At the first set of bridges, take the left bridge and collect Rune of Nesting from the chest (44.40, 60.62)|
 N Black Feather Quill |QID|483.2| |N|Collect Black Feather Quill from the chest across the other bridge (43.76, 61.20)|
 A The Sleeping Druid |QID|2541| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
 N Raven Claw Talisman |QID|483.1| |N|Collect Raven Claw Talisman from the chest (45.51, 58.96) (46.22, 58.21) (45.71, 57.33)|
 N Sapphire of Sky |QID|483.3| |N|Collect Sapphire of Sky from the small chest (44.65, 62.50)|
-C The Sleeping Druid |QID|2541| |N|Kill Gnarlpine Shaman until you find a Voodoo Charm, the item only drop froms shaman and very low drop rate. The quest chain will reward Sleeping Robes and Brushwood Blade, consider skipping this quest and the follow up if the rewards is useless for your character (44, 59)|
+C The Sleeping Druid |QID|2541| |N|Kill Gnarlpine Shaman until you find a Voodoo Charm. The item only drops from the Shaman at a very low drop rate. The quest chain will reward Sleeping Robes and Brushwood Blade. Consider skipping this quest and the follow up if the rewards are not useful for your character (44, 59)|
 T The Sleeping Druid |QID|2541| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
 A Druid of the Claw |QID|2561| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
 C Druid of the Claw |QID|2561| |N|Kill Rageclaw and then use the Voodoo Charm on the body (44.9, 61.5)| |U|8149|
@@ -143,10 +143,10 @@ A Crown of the Earth (Part 5) |QID|7383| |N|Corithras Moonrage in Dolanaar (56.2
 T The Relics of Wakening |QID|483| |N|Athridas Bearmantle in Dolanaar (55.95, 57.28)|
 A Ursal the Mauler |QID|486| |N|Athridas Bearmantle in Dolanaar (55.95, 57.28)|
 T Seek Redemption! |QID|489| |N|Zenn Foulhoof in Teldrassil (60.41, 56.26)|
-N Train (spell:2366) |QID|6121| |N|Highly recommend as a Druid that you train (spell:2366) from Malorne Bladeleaf, you will need it to gather 5 Earthroot for your level 14 class quest. Note: You need level 15 (spell:2366) to gather Earthroot, so level up as you go. Tick this step (57.6, 60.6)| |C|Druid| |Z|Teldrassil|
+N Train Herbalism |QID|6121| |N|Highly recommended as a Druid that you train Herbalism from Malorne Bladeleaf; You will need it to gather 5 Earthroot for your level 14 class quest. Note: You need level 15 Herbalism to gather Earthroot, so level it up as you go. Tick this step (57.6, 60.6)| |C|Druid| |Z|Teldrassil|
 
 N Level 10 Required |N|Grind to level 10 so you can pick up class quests before heading to Darnassus|
-A The Apple Falls |QID|2241| |N|Jannok Breezesong in Dolanaar, level 10 required (56.36, 60.17)| |C|Rogue|
+A The Apple Falls |QID|2241| |N|Jannok Breezesong in Dolanaar; Level 10 required (56.36, 60.17)| |C|Rogue|
 A Heeding the Call |QID|5923| |N|Kal in Dolanaar (55.95, 61.56)| |C|Druid|
 A Elanaria |QID|1684| |N|Kyra Windblade in Dolanaar (56.2, 59.2)| |C|Warrior|
 A Taming the Beast (Part 1) |QID|6063| |N|Dazalar in Dolanaar (56.68, 59.50)| |C|Hunter|
@@ -154,7 +154,7 @@ C Taming the Beast (Part 1) |QID|6063| |N|Use the Taming Rod to tame a Webwood L
 T Taming the Beast (Part 1) |QID|6063| |N|Dazalar in Dolanaar (56.69, 59.50)| |C|Hunter|
 A Taming the Beast (Part 2) |QID|6101| |N|Dazalar in Dolanaar (56.80, 59.86)| |C|Hunter|
 
-T The Road to Darnassus |QID|487| |N|Moon Priestess Amara, she patrols (50, 54) (55, 58)|
+T The Road to Darnassus |QID|487| |N|Moon Priestess Amara; She patrols (50, 54) (55, 58)|
 
 C Taming the Beast (Part 2) |QID|6101| |N|Use the Taming Rod to tame a Nightsaber Stalker (40.14, 55.88)|  |C|Hunter| |U|15922|
 T Taming the Beast (Part 2) |QID|6101| |N|Dazalar in Dolanaar (56.67, 59.48)| |C|Hunter|
@@ -168,8 +168,8 @@ A Nessa Shadowsong |QID|6344| |N|Mydrannul in Warrior's Terrace (70.5, 43.8)| |R
 T Rellian Greenspyre |QID|922| |N|Rellian Greenspyre in Cenarion Enclave (38.26, 21.27)| |Z|Darnassus|
 A Tumors |QID|923| |N|Rellian Greenspyre in Cenarion Enclave (38.26, 21.27)| |Z|Darnassus|
 
-T The Apple Falls |QID|2241| |N|Syurna down in the tunnel in Cenarion Enclave (32.63, 16.16) (36.86, 21.88)| |C|Rogue| |Z|Darnassus|
-A Destiny Calls |QID|2242| |N|Syurna down in the tunnel in Cenarion Enclave (36.86, 21.88)| |C|Rogue| |Z|Darnassus|
+T The Apple Falls |QID|2241| |N|Syurna is down in the tunnel in Cenarion Enclave (32.63, 16.16) (36.86, 21.88)| |C|Rogue| |Z|Darnassus|
+A Destiny Calls |QID|2242| |N|Syurna is down in the tunnel in Cenarion Enclave (36.86, 21.88)| |C|Rogue| |Z|Darnassus|
 
 A The Temple of the Moon |QID|2519| |N|Sister Aquinne in The Temple Gardens (29, 45.5)| |Z|Darnassus|
 
@@ -194,13 +194,13 @@ T The Temple of the Moon |QID|2519| |N|Priestess A'moora in Temple of the Moon (
 A Tears of the Moon |QID|2518| |N|Priestess A'moora in Temple of the Moon (36.55, 86.11)| |Z|Darnassus|
 
 R Teldrassil |QID|923| |N|Travel to Teldrassil (38.0, 54.7)| |REACH|
-C Ursal the Mauler |QID|486| |N|Kill Ursal the Mauler, consider skipping (x) this quest if the quest rewards Defender Axe or Thornroot Club is useless for your character (38.8, 78.9)|
+C Ursal the Mauler |QID|486| |N|Kill Ursal the Mauler. Consider skipping this quest if the quest rewards Defender Axe or Thornroot Club are not useful for your character (38.8, 78.9)|
 K Vorlus Vilehoof |QID|1683.1| |N|Follow the path up and kill Vorlus Vilehoof and collect Horn of Vorlus near the Moonwell in Teldrassil (49.11, 61.80) (48.75, 62.84) (49.05, 65.00) (47.31, 63.65)| |C|Warrior|
 
 R Wellspring River |QID|923| |N|Travel to Wellspring River (43.65, 34.46)|
 C Tumors |QID|923| |N|Kill Timberling Mire Beast or Timberling Trampler collect 5 Mossy Tumor in Wellspring River (43.65, 34.46)|
 C Crown of the Earth (Part 5) |QID|7383| |N|Use Amethyst Phial at the moonwell (38, 34)| |U|18152|
-K Blackmoss the Fetid |QID|927| |N|Kill Blackmoss the Fetid and collect Moss-twined Heart to accept a quest (42.7, 36.8) and (42.5, 26)<br/><b>He is a rare npc skip the quest if you can't find him| |L|5179|
+K Blackmoss the Fetid |QID|927| |N|Kill Blackmoss the Fetid and collect Moss-twined Heart to accept a quest (42.7, 36.8) and (42.5, 26). He is a rare npc; Skip the quest if you can't find him| |L|5179|
 A The Moss-twined Heart |QID|927| |N|Use Moss-twined Heart to accept the quest| |O| |U|927|
 
 R The Oracle Glade |QID|937| |N|Travel to The Oracle Glade (38.3, 34.4)|
@@ -208,7 +208,7 @@ A The Enchanted Glade |QID|937| |N|Sentinel Arynia Cloudsbreak in The Oracle Gla
 A Mist |QID|938| |N|Mist north west of The Oracle Glade (31.54, 31.61)|
 A The Shimmering Frond |QID|931| |N|Strange Fronded Plant in The Oracle Glade (34.8, 28.9)|
 
-C Mist |QID|938| |N|Escort Mist to Sentinel Arynia Cloudsbreak at the moon well near the Oracle Tree (31.4, 31.6) (38.3, 34.4)|
+C Mist |QID|938| |N|Escort Mist to Sentinel Arynia Cloudsbreak at the moonwell near the Oracle Tree (31.4, 31.6) (38.3, 34.4)|
 C The Enchanted Glade |QID|937| |N|Kill Bloodfeather mobs and collect 6 Bloodfeather Belt in The Oracle Glade (35, 38)|
 
 T Mist |QID|938| |N|Sentinel Arynia Cloudsbreak in The Oracle Glade (38.3, 34.4)|
@@ -240,7 +240,7 @@ T The Glowing Fruit |QID|930| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 T The Shimmering Frond |QID|931| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 T The Moss-twined Heart |QID|927| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 
-C Oakenscowl |QID|2499| |N|Kill Oakenscowl and collect Gargantuan Tumor in Lake Al'Ameth. This is a group quest but can be soloed for good XP but you can safely skip this quest if it's too hard (53.55, 74.99)|
+C Oakenscowl |QID|2499| |N|Kill Oakenscowl and collect Gargantuan Tumor in Lake Al'Ameth. This is a group quest and can be soloed for good XP, but you can safely skip this quest if it's too hard (53.55, 74.99)|
 T Oakenscowl |QID|2499| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 
 R Darnassus |QID|952| |N|Travel to Darnassus (27, 55)|
@@ -248,7 +248,7 @@ T Crown of the Earth (Part 6) |QID|935| |N|Arch Druid Fandral Staghelm in Cenari
 T Teldrassil |QID|940| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.86, 8.97)| |Z|Darnassus|
 A Grove of the Ancients |QID|952| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.86, 8.97)| |Z|Darnassus|
 
-R Rut'theran Village |QID|6341| |N|Run thru the portal west of the bank (30.5, 41.4)| |Z|Darnassus| |R|Night Elf|
+R Rut'theran Village |QID|6341| |N|Run through the portal west of the bank (30.5, 41.4)| |Z|Darnassus| |R|Night Elf|
 T Nessa Shadowsong |QID|6344| |N|Nessa Shadowsong in Rut'theran Village (56.25, 92.36)|
 A The Bounty of Teldrassil |QID|6341| |N|Nessa Shadowsong in Rut'theran Village (56.25, 92.36)|
 T The Bounty of Teldrassil |QID|6341| |N|Vesprystus in Rut'theran Village (58.39, 94.00)|
