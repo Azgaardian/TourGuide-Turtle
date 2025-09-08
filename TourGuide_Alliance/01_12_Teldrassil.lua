@@ -184,13 +184,13 @@ T Training the Beast |QID|6103| |N|Jocaste in Cenarion Enclave (40.39, 8.60)| |C
 
 T Heeding the Call |QID|5923| |N|Mathrengyl Bearwalker in Cenarion Enclave (35.38, 8.42)| |C|Druid| |Z|Darnassus|
 A Moonglade |QID|5921| |N|Mathrengyl Bearwalker in Cenarion Enclave (35.38, 8.42)| |C|Druid| |Z|Darnassus|
-R Nighthaven |QID|5929| |N|Use spell Teleport: Moonglade to get to Nighthaven in Moonglade (56.3, 32.50)| |C|Druid| |Z|Moonglade|
+R Nighthaven |QID|5929| |N|Use spell Teleport: Moonglade to get to Nighthaven in Moonglade (56.3, 32.5)| |C|Druid| |Z|Moonglade|
 T Moonglade |QID|5921| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid| |Z|Moonglade|
 A Great Bear Spirit |QID|5929| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid| |Z|Moonglade|
-N Great Bear Spirit |QID|5929.1| |N|Speak to Great Bear Spirit in Moonglade (39.09, 27.54)| |C|Druid| |C|Druid| |Z|Moonglade|
+N Great Bear Spirit |QID|5929.1| |N|Speak to the Great Bear Spirit in Moonglade (39.09, 27.54)| |C|Druid| |Z|Moonglade|
 T Great Bear Spirit |QID|5929| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid| |Z|Moonglade|
 A Back to Darnassus |QID|5931| |N|Dendrite Starblaze in Nighthaven (56.20, 30.64)| |C|Druid| |Z|Moonglade|
-F Rut'theran Village |TID|5931| |N|Speak to Silva Fil'naveth and fly to Rut'theran Village (58.33, 93.89)| |C|Druid|
+F Rut'theran Village |TID|5931| |N|Speak to Silva Fil'naveth and fly to Rut'theran Village (58.33, 93.89)| |C|Druid| |Z|Moonglade|
 T Back to Darnassus |QID|5931| |N|Mathrengyl Bearwalker in Cenarion Enclave (34.90, 8.25)| |C|Druid| |Z|Darnassus|
 A Body and Heart |QID|6001| |N|Mathrengyl Bearwalker in Cenarion Enclave (34.90, 8.25)| |C|Druid| |Z|Darnassus|
 
