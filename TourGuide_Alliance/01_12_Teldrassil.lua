@@ -171,13 +171,14 @@ T A Meeting With Adaena  |QID|40204| |N|Adaena Oakleaf is above the gate to the 
 A Securing Darnassus  |QID|40205| |N|Adaena Oakleaf (87.0, 35.7)| |R|Night Elf| |Z|Darnassus|
 
 A Nessa Shadowsong |QID|6344| |N|Mydrannul in Warrior's Terrace (70.5, 43.8)| |R|Night Elf| |Z|Darnassus| |OID|6341|
+
+A The Temple of the Moon |QID|2519| |N|Sister Aquinne in The Temple Gardens (29, 45.5)| |Z|Darnassus|
+
 T Rellian Greenspyre |QID|922| |N|Rellian Greenspyre in Cenarion Enclave (38.26, 21.27)| |Z|Darnassus|
 A Tumors |QID|923| |N|Rellian Greenspyre in Cenarion Enclave (38.26, 21.27)| |Z|Darnassus|
 
 T The Apple Falls |QID|2241| |N|Syurna is down in the tunnel in Cenarion Enclave (32.63, 16.16) (36.86, 21.88)| |C|Rogue| |Z|Darnassus|
 A Destiny Calls |QID|2242| |N|Syurna is down in the tunnel in Cenarion Enclave (36.86, 21.88)| |C|Rogue| |Z|Darnassus|
-
-A The Temple of the Moon |QID|2519| |N|Sister Aquinne in The Temple Gardens (29, 45.5)| |Z|Darnassus|
 
 T Training the Beast |QID|6103| |N|Jocaste in Cenarion Enclave (40.39, 8.60)| |C|Hunter| |Z|Darnassus|
 
