@@ -167,9 +167,9 @@ T Taming the Beast (Part 3) |QID|6102| |N|Dazalar in Dolanaar (56.68, 59.50)| |C
 A Training the Beast |QID|6103| |N|Dazalar in Dolanaar (56.41, 58.57)| |C|Hunter|
 
 A A Meeting With Adaena  |QID|40204| |N|Sentinel Danala (36.7, 54.1)| |R|Night Elf|
-T A Meeting With Adaena  |QID|40204| |N|Adaena Oakleaf (87.0, 35.7)| |R|Night Elf| |Z|Darnassus|
+T A Meeting With Adaena  |QID|40204| |N|Adaena Oakleaf is above the gate; The way up is to the left (87.0, 35.7)| |R|Night Elf| |Z|Darnassus|
 
-R Darnassus |QID|923| |N|Travel to Darnassus (35.7, 54.3)|
+R Darnassus |QID|923| |N|Travel to Darnassus (77, 41)|
 
 A Nessa Shadowsong |QID|6344| |N|Mydrannul in Warrior's Terrace (70.5, 43.8)| |R|Night Elf| |Z|Darnassus| |OID|6341|
 T Rellian Greenspyre |QID|922| |N|Rellian Greenspyre in Cenarion Enclave (38.26, 21.27)| |Z|Darnassus|
