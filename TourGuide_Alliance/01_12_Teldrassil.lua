@@ -74,7 +74,7 @@ A A Troubling Breeze |QID|475| |N|Athridas Bearmantle in Dolanaar (55.95, 57.28)
 A The Emerald Dreamcatcher |QID|2438| |N|Tallonkai Swiftroot at the top of the tower in Dolanaar (55.5, 56.9)|
 A Twisted Hatred |QID|932| |N|Tallonkai Swiftroot at the top of the tower in Dolanaar (55.5, 56.9)|
 
-N As you go... |AYG|929| |QID|488| |N|Kill these scarce mobs as you go for the quest 'Zenn's Bidding'; it takes a long time to complete. Nightsaber for 3 Nightsaber Fang, Strigid Owl for 3 Strigid Owl Feather, Webwood Lurker for 3 Webwood Spider Silk|
+N As you go... |AYG|929| |QID|488| |N|Kill these scarce mobs as you go for the quest Zenn's Bidding; it takes a long time to complete. Nightsaber for 3 Nightsaber Fang, Strigid Owl for 3 Strigid Owl Feather, Webwood Lurker for 3 Webwood Spider Silk|
 R Lake Al'Ameth |QID|918| |N|Travel to Lake Al'Ameth (60.91, 68.45)|
 T Denalan's Earth |QID|997| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 A Timberling Seeds |QID|918| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
@@ -85,7 +85,7 @@ T A Troubling Breeze |QID|475| |N|Gaerolas Talvethren in Starbreeze Village (66.
 A Gnarlpine Corruption |QID|476| |N|Gaerolas Talvethren in Starbreeze Village (66.27, 58.57)|
 C The Emerald Dreamcatcher |QID|2438| |N|Click on Tallonkai's Dresser and collect the Emerald Dreamcatcher (68.0,59.6)|
 
-N As you go... |AYG|919| |QID|488| |N|Kill these scarce mobs as you go for the quest 'Zenn's Bidding'; it takes a long time to complete. Nightsaber for 3 Nightsaber Fang, Strigid Owl for 3 Strigid Owl Feather, Webwood Lurker for 3 Webwood Spider Silk|
+N As you go... |AYG|919| |QID|488| |N|Kill these scarce mobs as you go for the quest Zenn's Bidding; it takes a long time to complete. Nightsaber for 3 Nightsaber Fang, Strigid Owl for 3 Strigid Owl Feather, Webwood Lurker for 3 Webwood Spider Silk|
 T Crown of the Earth (Part 3) |QID|929| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
 A Crown of the Earth (Part 4) |QID|933| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
 T Gnarlpine Corruption |QID|476| |N|Athridas Bearmantle in Dolanaar (55.95, 57.28)|
@@ -100,8 +100,8 @@ T Timberling Seeds |QID|918| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 A Rellian Greenspyre |QID|922| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 T Timberling Sprouts |QID|919| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 
-K Webwood Lurker |QID|488.2| |N|Kill Strigid Owl for 3 Strigid Owl Feather (58.80, 60.28)|
-K Strigid Owl |QID|488.3| |N|Kill Webwood Lurker for 3 Webwood Spider Silk in Lake Al'Ameth (52.83, 67.36)|
+K Webwood Lurker |QID|488.2| |N|Kill Kill Webwood Lurker for 3 Webwood Spider Silk (58.80, 60.28)|
+K Strigid Owl |QID|488.3| |N|Kill Strigid Owl for 3 Strigid Owl Feather in Lake Al'Ameth (52.83, 67.36)|
 
 T Zenn's Bidding |QID|488| |N|Zenn Foulhoof (60.41, 56.26)|
 A Seek Redemption! |QID|489| |N|Syral Bladeleaf in Dolanaar (56.10, 57.74)|
