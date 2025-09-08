@@ -184,7 +184,7 @@ T Training the Beast |QID|6103| |N|Jocaste in Cenarion Enclave (40.39, 8.60)| |C
 
 T Heeding the Call |QID|5923| |N|Mathrengyl Bearwalker in Cenarion Enclave (35.38, 8.42)| |C|Druid| |Z|Darnassus|
 A Moonglade |QID|5921| |N|Mathrengyl Bearwalker in Cenarion Enclave (35.38, 8.42)| |C|Druid| |Z|Darnassus|
-R Nighthaven |QID|5929| |N|Use spell Teleport: Moonglade to get to Nighthaven in Moonglade (56.23, 30.60)| |C|Druid| |Z|Thunder Bluff|
+R Nighthaven |QID|5929| |N|Use spell Teleport: Moonglade to get to Nighthaven in Moonglade (56.3, 32.50)| |C|Druid| |Z|Moonglade|
 T Moonglade |QID|5921| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid| |Z|Moonglade|
 A Great Bear Spirit |QID|5929| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid| |Z|Moonglade|
 N Great Bear Spirit |QID|5929.1| |N|Speak to Great Bear Spirit in Moonglade (39.09, 27.54)| |C|Druid| |C|Druid| |Z|Moonglade|
